@@ -68,3 +68,11 @@ Charges Type Bar Chart – Breaks down hospital revenue by category (surgery, ro
  Medicine Stock vs Sale Bars – Compares current stock vs sales to monitor inventory usage and restocking needs.
 
 <a href ="https://github.com/998rajat/hospital_data/blob/main/Finance_Dashboard.png">view dashboard</a>
+
+# Conclusion
+The hospital is functioning efficiently across departments, with strong medicine management and high patient satisfaction. However, most test results are abnormal, and room occupancy is high, suggesting a growing patient load. To improve, focus should be placed on:
+•	Enhancing doctor-patient communication,
+•	Expanding room capacity (especially ICU/Private),
+•	Monitoring medicine demand trends for stock planning,
+•	Utilizing SQL and dashboard tools to maintain real-time data tracking for decision-making.
+
