@@ -1,0 +1,16 @@
+doctor_id,name,specialization,department,salary,status,availability,joining_date,qualification,experience_years,phone,email,Img
+D001,Dr. Aditya Gupta,Cardiologist,Cardiology,150000,Active,Available,2015-06-01,MD,12,9876543210,aditya.gupta@hospital.com,https://i.ibb.co/r2Vyh5MX/Dr-6.jpg
+D002,Dr. Neha Verma,Neurologist,Neurology,145000,Active,Available,2016-07-15,MD,10,8765432109,neha.verma@hospital.com,https://i.ibb.co/jkYD4jsY/DR-5-1.jpg
+D003,Dr. Rajesh Kumar,Orthopedic Surgeon,Orthopedics,140000,Active,On Leave,2015-08-20,MS,11,7654321098,rajesh.kumar@hospital.com,https://i.ibb.co/8D1NnQFm/DR-5.jpg
+D004,Dr. Priya Sharma,Gynecologist,Gynecology,135000,Active,Available,2017-01-10,MBBS,8,6543210987,priya.sharma@hospital.com,https://i.ibb.co/bjnbLqRw/DR-4.jpg
+D005,Dr. Vikram Singh,Pediatrician,Pediatrics,130000,Active,Available,2016-03-05,MD (Pediatrics),9,vikram.singh@hospital.com,,https://i.ibb.co/gFzShn7G/DR-3.jpg
+D006,Dr. Anita Patel,Dermatologist,Dermatology,125000,Active,Available,2018-02-15,MD (Dermatology),7,anita.patel@hospital.com,,https://i.ibb.co/7NQdkhRx/DR-2.jpg
+D007,Dr. Suresh Nair,Gastroenterologist,Gastroenterology,155000,Active,On Leave,2014-05-20,MD,13,3210987654,suresh.nair@hospital.com,https://i.ibb.co/5g6N8dwD/DR-1.jpg
+D008,Dr. Kavita Menon,Ophthalmologist,Ophthalmology,120000,Active,Available,2019-04-10,MS (Ophthalmology),6,kavita.menon@hospital.com,,https://i.ibb.co/r2Vyh5MX/Dr-6.jpg
+D009,Dr. Deepak Joshi,ENT Specialist,ENT,115000,Active,Available,2020-06-25,MS (ENT),5,deepak.joshi@hospital.com,,https://i.ibb.co/jkYD4jsY/DR-5-1.jpg
+D010,Dr. Meera Reddy,Psychiatrist,Psychiatry,130000,Active,Available,2017-08-15,MD (Psychiatry),8,meera.reddy@hospital.com,,https://i.ibb.co/8D1NnQFm/DR-5.jpg
+D011,Dr. Sanjay Malhotra,Urologist,Urology,145000,Active,Available,2015-09-30,MS,11,8765432119,sanjay.malhotra@hospital.com,https://i.ibb.co/bjnbLqRw/DR-4.jpg
+D012,Dr. Pooja Das,Endocrinologist,Endocrinology,140000,Active,On Leave,2016-11-20,MD,10,7654321108,pooja.das@hospital.com,https://i.ibb.co/gFzShn7G/DR-3.jpg
+D013,Dr. Amit Khanna,Nephrologist,Nephrology,150000,Active,Available,2014-10-15,MD,12,6543210997,amit.khanna@hospital.com,https://i.ibb.co/7NQdkhRx/DR-2.jpg
+D014,Dr. Sonali Bhatia,Pulmonologist,Pulmonology,135000,Active,Available,2017-05-05,MD (Pulmonology),8,sonali.bhatia@hospital.com,,https://i.ibb.co/5g6N8dwD/DR-1.jpg
+D015,Dr. Ravi Mehta,Oncologist,Oncology,160000,Active,Available,2013-03-10,MD,14,4321098775,ravi.mehta@hospital.com,https://i.ibb.co/5g6N8dwD/DR-1.jpg

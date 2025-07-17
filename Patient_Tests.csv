@@ -1,0 +1,31 @@
+patient_test_id,patient_id,test_id,doctor_id,test_date,result_date,status,result,notes,amount,payment_method,discount
+PT001,P001,TEST001,D001,2023-05-15,2023-05-16,Completed,Normal,WBC,500,Cash,0
+PT002,P001,TEST003,D001,2023-05-15,2023-05-16,Completed,Abnormal,Cholesterol elevated,800,Cash,0
+PT003,P001,TEST007,D001,2023-05-15,2023-05-15,Completed,Abnormal,Minor arrhythmia detected,1500,Cash,
+PT004,P003,TEST004,D007,2023-05-20,2023-05-21,Completed,Abnormal,Elevated liver enzymes,1000,Insurance,
+PT005,P003,TEST013,D007,2023-05-20,2023-05-21,Completed,Normal,No parasites detected,500,Insurance,
+PT006,P003,TEST019,D007,2023-05-22,2023-05-22,Completed,Abnormal,Gastric ulcers detected,3500,Insurance,
+PT007,P005,TEST017,D003,2023-06-05,2023-06-06,Completed,Abnormal,Low bone density,2500,Cash,0
+PT008,P007,TEST001,D002,2023-06-15,2023-06-16,Completed,Normal,All parameters within range,500,Insurance,
+PT009,P007,TEST009,D002,2023-06-16,2023-06-16,Completed,Abnormal,Brain lesion detected,4500,Cash,0
+PT010,P009,TEST016,D011,2023-06-20,2023-06-21,Completed,Abnormal,Elevated PSA levels,1500,Credit Card,
+PT011,P009,TEST011,D011,2023-06-21,2023-06-21,Completed,Abnormal,Enlarged prostate confirmed,1800,Credit Card,
+PT012,P011,TEST005,D013,2023-07-05,2023-07-06,Completed,Abnormal,Reduced kidney function,1000,Cash,
+PT013,P011,TEST011,D013,2023-07-06,2023-07-06,Completed,Abnormal,Kidney stones visualized,1800,Cash,
+PT014,P013,TEST001,D015,2023-07-15,2023-07-16,Completed,Abnormal,Reduced RBC count,500,Cash,0
+PT015,P013,TEST009,D015,2023-07-16,2023-07-16,Completed,Abnormal,Tumor detected in left lung,4500,Insurance,
+PT016,P015,TEST003,D001,2023-07-20,2023-07-21,Completed,Abnormal,High cholesterol and triglycerides,800,Insurance,
+PT017,P015,TEST007,D001,2023-07-20,2023-07-20,Completed,Abnormal,Irregular heartbeat detected,1500,Insurance,
+PT018,P017,TEST018,D014,2023-08-05,2023-08-06,Completed,Abnormal,Reduced lung capacity,1800,Cash,0
+PT019,P017,TEST008,D014,2023-08-05,2023-08-05,Completed,Abnormal,Pulmonary fibrosis evident,800,Cash,
+PT020,P019,TEST004,D007,2023-08-15,2023-08-16,Completed,Abnormal,Liver function significantly impaired,1000,Credit Card,
+PT021,P019,TEST011,D007,2023-08-16,2023-08-16,Completed,Abnormal,Liver cirrhosis confirmed,1800,Credit Card,
+PT022,P021,TEST001,D002,2023-09-01,2023-09-02,Completed,Normal,Blood counts normal,500,Insurance,
+PT023,P021,TEST009,D002,2023-09-02,2023-09-02,Completed,Abnormal,Evidence of recent stroke,4500,Insurance,
+PT024,P021,TEST007,D002,2023-09-01,2023-09-01,Completed,Abnormal,Cardiac irregularities noted,1500,Insurance,
+PT025,P023,TEST005,D013,2023-09-10,2023-09-11,Completed,Abnormal,Severe kidney dysfunction,1000,Cash,
+PT026,P025,TEST016,D011,2023-09-20,2023-09-21,Completed,Abnormal,Highly elevated PSA,1500,Credit Card,
+PT027,P025,TEST011,D011,2023-09-21,2023-09-21,Completed,Abnormal,Prostate enlargement with irregular borders,1800,Credit Card,
+PT028,P027,TEST009,D015,2023-10-05,2023-10-05,Completed,Abnormal,Tumor size reduced after treatment,4500,Insurance,
+PT029,P029,TEST018,D014,2023-10-15,2023-10-16,Completed,Abnormal,Severe respiratory compromise,1800,Cash,
+PT030,P029,TEST008,D014,2023-10-15,2023-10-15,Completed,Abnormal,Pneumonia with consolidation,800,Cash,

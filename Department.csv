@@ -1,0 +1,16 @@
+department_id,name,floor,head_doctor_id,total_staff,phone_extension
+DEPT001,Cardiology,3,D001,15,1001
+DEPT002,Neurology,4,D002,12,1002
+DEPT003,Orthopedics,2,D003,18,1003
+DEPT004,Gynecology,5,D004,14,1004
+DEPT005,Pediatrics,1,D005,16,1005
+DEPT006,Dermatology,3,D006,8,1006
+DEPT007,Gastroenterology,4,D007,10,1007
+DEPT008,Ophthalmology,2,D008,9,1008
+DEPT009,ENT,5,D009,7,1009
+DEPT010,Psychiatry,6,D010,6,1010
+DEPT011,Urology,3,D011,8,1011
+DEPT012,Endocrinology,4,D012,6,1012
+DEPT013,Nephrology,2,D013,9,1013
+DEPT014,Pulmonology,5,D014,10,1014
+DEPT015,Oncology,6,D015,14,1015

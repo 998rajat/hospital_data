@@ -1,0 +1,26 @@
+room_id,department_id,room_type,floor,capacity,status,daily_charge,avg montly maintenance cost
+R001,DEPT001,General,3,4,Available,1000,1000
+R002,DEPT001,Private,3,1,Occupied,3000,3000
+R003,DEPT001,ICU,3,1,Available,5000,5000
+R004,DEPT002,General,4,4,Available,1000,1000
+R005,DEPT002,Private,4,1,Occupied,3000,3000
+R006,DEPT002,ICU,4,1,Available,5000,5000
+R007,DEPT003,General,2,4,Available,1000,1000
+R008,DEPT003,Private,2,1,Occupied,3000,3000
+R009,DEPT003,ICU,2,1,Available,5000,5000
+R010,DEPT004,General,5,4,Available,1000,1000
+R011,DEPT004,Private,5,1,Occupied,3000,3000
+R012,DEPT004,ICU,5,1,Available,5000,5000
+R013,DEPT005,General,1,4,Available,1000,1000
+R014,DEPT005,Private,1,1,Occupied,3000,3000
+R015,DEPT005,ICU,1,1,Available,5000,5000
+R016,DEPT006,General,3,4,Available,1000,1000
+R017,DEPT006,Private,3,1,Occupied,3000,3000
+R018,DEPT007,General,4,4,Available,1000,1000
+R019,DEPT007,Private,4,1,Occupied,3000,3000
+R020,DEPT007,ICU,4,1,Available,5000,5000
+R021,DEPT008,General,2,4,Available,1000,1000
+R022,DEPT008,Private,2,1,Occupied,3000,3000
+R023,DEPT009,General,5,4,Available,1000,1000
+R024,DEPT009,Private,5,1,Occupied,3000,3000
+R025,DEPT010,General,6,4,Available,1000,1000

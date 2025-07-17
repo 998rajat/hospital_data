@@ -1,0 +1,20 @@
+satisfaction_id,patient_id,doctor_id,rating,feedback,date,department
+SAT001,P001,D001,4,The doctor was very attentive and explained everything well.,2023-05-20,Cardiology
+SAT002,P002,D004,5,Excellent care and treatment. Very satisfied.,2023-05-25,Gynecology
+SAT003,P003,D007,3,Treatment was good but had to wait too long.,2023-05-30,Gastroenterology
+SAT004,P004,D006,4,Good diagnosis and treatment for my skin condition.,2023-06-10,Dermatology
+SAT005,P005,D003,5,Very professional and the surgery was successful.,2023-06-15,Orthopedics
+SAT006,P006,D009,4,Quick diagnosis and effective medication.,2023-06-14,ENT
+SAT007,P008,D010,5,The doctor really understood my mental health concerns.,2023-06-25,Psychiatry
+SAT008,P009,D011,4,Professional care and successful surgery.,2023-06-30,Urology
+SAT009,P011,D013,3,Good treatment but communication could be better.,2023-07-12,Nephrology
+SAT010,P012,D006,5,The skin treatment was very effective.,2023-07-15,Dermatology
+SAT011,P014,D008,4,Vision has improved after treatment.,2023-07-25,Ophthalmology
+SAT012,P015,D001,5,Excellent cardiac care and successful procedure.,2023-07-28,Cardiology
+SAT013,P016,D012,4,Diabetes management advice was helpful.,2023-08-10,Endocrinology
+SAT014,P018,D004,5,Very satisfied with the prenatal care.,2023-08-15,Gynecology
+SAT015,P019,D007,3,Treatment was okay but needed more explanation.,2023-08-25,Gastroenterology
+SAT016,P021,D002,4,Good care after my stroke.,2023-09-10,Neurology
+SAT017,P022,D005,5,Excellent pediatric care for my child.,2023-09-12,Pediatrics
+SAT018,P024,D009,4,My hearing has improved after treatment.,2023-09-25,ENT
+SAT019,P025,D011,3,Surgery went well but recovery information was lacking.,2023,

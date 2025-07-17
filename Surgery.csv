@@ -1,0 +1,31 @@
+appointment_id,patient_id,doctor_id,appointment_date,appointment_time,status,reason,notes,fees,payment_method,discount,
+APP001,P001,D001,2023-05-14,10:00:00,Completed,Chest Pain,Patient complained of chest pain, prescribed medication,800,Cash,0
+APP002,P002,D004,2023-05-17,11:30:00,Completed,Regular Checkup,Regular gynecological checkup, all normal,700,Credit Card,0
+APP003,P003,D007,2023-05-19,14:00:00,Completed,Stomach Pain,Patient has chronic gastritis, advised diet change,850,Insurance,0
+APP004,P004,D006,2023-06-01,09:30:00,Completed,Skin Rash,Allergic reaction, prescribed antihistamines,650,Cash,50
+APP005,P005,D003,2023-06-04,13:00:00,Completed,Back Pain,Lumbar strain, physiotherapy recommended,800,Insurance,0
+APP006,P006,D009,2023-06-09,16:30:00,Completed,Ear Infection,Ear infection diagnosed, prescribed antibiotics,700,Credit Card,0
+APP007,P007,D002,2023-06-14,10:00:00,Completed,Severe Headache,Possible migraine, further tests needed,850,Insurance,0
+APP008,P008,D010,2023-06-17,11:30:00,Completed,Anxiety Issues,Patient suffering from anxiety, therapy recommended,900,Cash,100
+APP009,P009,D011,2023-06-19,14:00:00,Completed,Urinary Issues,UTI diagnosed, prescribed antibiotics,750,Credit Card,0
+APP010,P010,D005,2023-06-30,09:30:00,Completed,Child Fever,Child has viral fever, prescribed medication,600,Insurance,0
+APP011,P011,D013,2023-07-04,13:00:00,Completed,Kidney Pain,Kidney stones suspected, tests ordered,900,Cash,0
+APP012,P012,D006,2023-07-09,16:30:00,Completed,Acne Treatment,Severe acne, prescribed medication,650,Credit Card,50
+APP013,P013,D015,2023-07-14,10:00:00,Completed,Cancer Screening,Routine cancer screening, tests ordered,1200,Insurance,200
+APP014,P014,D008,2023-07-17,11:30:00,Completed,Vision Problem,Vision deterioration, new glasses prescribed,700,Cash,0
+APP015,P015,D001,2023-07-19,14:00:00,Completed,Heart Palpitations,Heart arrhythmia suspected, ECG performed,850,Insurance,0
+APP016,P016,D012,2023-07-31,09:30:00,Completed,Diabetes Check,Routine diabetes checkup, medication adjusted,800,Credit Card,0
+APP017,P017,D014,2023-08-04,13:00:00,Completed,Breathing Difficulty,COPD exacerbation, treatment intensified,900,Cash,100
+APP018,P018,D004,2023-08-09,16:30:00,Completed,Pregnancy Confirmation,Pregnancy confirmed, scheduled followup,700,Insurance,0
+APP019,P019,D007,2023-08-14,10:00:00,Completed,Liver Function,Abnormal liver function, diet change advised,850,Credit Card,0
+APP020,P020,D003,2023-08-19,11:30:00,Completed,Joint Pain,Arthritis diagnosed, medication prescribed,800,Cash,0
+APP021,P021,D002,2023-08-31,09:30:00,Completed,Stroke Symptoms,TIA suspected, hospitalization recommended,950,Insurance,0
+APP022,P022,D005,2023-09-04,13:00:00,Completed,Child Vaccination,Routine vaccination, next appointment scheduled,500,Credit Card,0
+APP023,P023,D013,2023-09-09,16:30:00,Completed,Renal Checkup,Renal function deteriorating, admission advised,900,Cash,0
+APP024,P024,D009,2023-09-14,10:00:00,Completed,Hearing Loss,Mild hearing loss, hearing aid recommended,750,Insurance,50
+APP025,P025,D011,2023-09-19,11:30:00,Completed,Prostate Examination,Enlarged prostate, medication prescribed,800,Credit Card,0
+APP026,P026,D010,2023-09-30,09:30:00,Completed,Depression,Clinical depression diagnosed, therapy started,900,Cash,0
+APP027,P027,D015,2023-10-04,13:00:00,Completed,Cancer Followup,Cancer in remission, monitoring continued,1200,Insurance,200
+APP028,P028,D006,2023-10-09,16:30:00,Completed,Eczema,Eczema flare-up, topical steroids prescribed,650,Credit Card,0
+APP029,P029,D014,2023-10-14,10:00:00,Completed,Pneumonia Symptoms,Pneumonia confirmed, hospitalization recommended,900,Cash,0
+APP030,P030,D008,2023-10-19,11:30:00,Completed,Cataract Examination,Cataract diagnosed, surgery recommended,800,Insurance,0

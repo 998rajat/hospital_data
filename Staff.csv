@@ -1,0 +1,21 @@
+staff_id,name,department_id,role,salary,joining_date,shift,phone,email,address,,
+S001,Anand Kumar,DEPT001,Nurse,45000,2018-01-10,Morning,9876543210,anand.kumar@hospital.com,123, Staff Quarters, Hospital Campus
+S002,Sunita Verma,DEPT001,Nurse,42000,2019-03-15,Evening,8765432109,sunita.verma@hospital.com,124, Staff Quarters, Hospital Campus
+S003,Rajiv Singh,DEPT001,Ward Boy,25000,2020-06-20,Night,7654321098,rajiv.singh@hospital.com,125, Staff Quarters, Hospital Campus
+S004,Meena Patel,DEPT002,Nurse,44000,2018-05-12,Morning,6543210987,meena.patel@hospital.com,126, Staff Quarters, Hospital Campus
+S005,Suresh Nair,DEPT002,Nurse,43000,2019-07-18,Evening,5432109876,suresh.nair@hospital.com,127, Staff Quarters, Hospital Campus
+S006,Kavita Menon,DEPT002,Ward Boy,26000,2020-09-25,Night,4321098765,kavita.menon@hospital.com,128, Staff Quarters, Hospital Campus
+S007,Rahul Sharma,DEPT003,Nurse,46000,2017-08-15,Morning,3210987654,rahul.sharma@hospital.com,129, Staff Quarters, Hospital Campus
+S008,Priya Singh,DEPT003,Nurse,44000,2018-10-20,Evening,2109876543,priya.singh@hospital.com,130, Staff Quarters, Hospital Campus
+S009,Amit Kumar,DEPT003,Ward Boy,27000,2019-12-10,Night,1098765432,amit.kumar@hospital.com,131, Staff Quarters, Hospital Campus
+S010,Neha Joshi,DEPT004,Nurse,45000,2018-02-05,Morning,9876543220,neha.joshi@hospital.com,132, Staff Quarters, Hospital Campus
+S011,Vikram Malhotra,DEPT004,Nurse,43000,2019-04-15,Evening,8765432119,vikram.m@hospital.com,133, Staff Quarters, Hospital Campus
+S012,Nisha Reddy,DEPT004,Ward Boy,26000,2020-07-25,Night,7654321108,nisha.r@hospital.com,134, Staff Quarters, Hospital Campus
+S013,Deepak Gupta,DEPT005,Nurse,47000,2017-03-10,Morning,6543210997,deepak.g@hospital.com,135, Staff Quarters, Hospital Campus
+S014,Anita Saxena,DEPT005,Nurse,45000,2018-05-20,Evening,5432109886,anita.s@hospital.com,136, Staff Quarters, Hospital Campus
+S015,Sanjay Bhatia,DEPT005,Ward Boy,28000,2019-08-15,Night,4321098775,sanjay.b@hospital.com,137, Staff Quarters, Hospital Campus
+S016,Divya Mehta,DEPT006,Nurse,44000,2018-06-25,Morning,3210987664,divya.m@hospital.com,138, Staff Quarters, Hospital Campus
+S017,Rakesh Das,DEPT007,Nurse,45000,2018-09-10,Morning,2109876553,rakesh.d@hospital.com,139, Staff Quarters, Hospital Campus
+S018,Anjali Khanna,DEPT008,Nurse,43000,2019-01-15,Morning,1098765442,anjali.k@hospital.com,140, Staff Quarters, Hospital Campus
+S019,Vivek Iyer,DEPT009,Nurse,44000,2018-11-05,Morning,9876543230,vivek.i@hospital.com,141, Staff Quarters, Hospital Campus
+S020,Geeta Nair,DEPT010,Nurse,42000,2019-12-20,Morning,8765432129,geeta.n@hospital.com,142, Staff Quarters, Hospital Campus

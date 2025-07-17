@@ -1,0 +1,6 @@
+supplier_id,name,contact_person,phone,email,address,city,state,pincode,state,contract_start_date,contract_end_date
+SUP001,MediPharm Distributors,Rajesh Gupta,9876543210,rajesh@medipharm.com," Phase 1""", Industrial Area," Phase 1""",110001,Delhi,2023-01-01,2024-12-31
+SUP002,HealthCare Supplies,Priya Sharma,8765432109,priya@healthcaresupplies.com," Sector 5""", Business Park," Sector 5""",400001,Maharashtra,2023-01-15,2024-12-31
+SUP003,MediCore Enterprises,Amit Kumar,7654321098,amit@medicore.com," Zone 3""", Corporate Hub," Zone 3""",560001,Karnataka,2023-02-01,2024-12-31
+SUP004,LifeLine Pharmaceuticals,Sneha Patel,6543210987,sneha@lifeline.com," Block B""", Pharma Valley," Block B""",600001,Tamil Nadu,2023-02-15,2024-12-31
+SUP005,MediTech Solutions,Vikram Singh,5432109876,vikram@meditech.com," Area 7""", Tech Park," Area 7""",500001,Telangana,2023-03-01,2024-12-31

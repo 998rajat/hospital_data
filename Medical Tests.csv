@@ -1,0 +1,16 @@
+test_id,test_name,category,department_id,cost,duration_minutes,fasting_required
+TEST001,Complete Blood Count,Hematology,DEPT015,500,30,Yes
+TEST002,Blood Glucose,Biochemistry,DEPT012,300,15,Yes
+TEST003,Lipid Profile,Biochemistry,DEPT012,800,30,Yes
+TEST004,Liver Function Test,Biochemistry,DEPT007,1000,45,Yes
+TEST005,Kidney Function Test,Biochemistry,DEPT013,1000,45,Yes
+TEST006,Thyroid Profile,Endocrinology,DEPT012,1200,30,Yes
+TEST007,Electrocardiogram (ECG),Cardiology,DEPT001,1500,20,No
+TEST008,X-Ray Chest,Radiology,DEPT014,800,15,No
+TEST009,CT Scan,Radiology,DEPT014,4500,45,No
+TEST010,MRI Scan,Radiology,DEPT014,7500,60,No
+TEST011,Ultrasound,Radiology,DEPT014,1800,30,Depends
+TEST012,Urine Analysis,Pathology,DEPT013,400,60,No
+TEST013,Stool Analysis,Pathology,DEPT007,500,60,No
+TEST014,Pap Smear,Gynecology,DEPT004,1200,30,No
+TEST015,Mammogram,Radiology,DEPT004,2000,30,No
