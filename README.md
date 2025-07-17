@@ -52,3 +52,19 @@ o	Purpose: Track financial and status-wise details of each patient treated by th
 o	Purpose: Track doctor’s performance and compensation breakdown
 # Dash Board
 <a href ="https://github.com/998rajat/hospital_data/blob/main/Doctor_Dashboard.png">view dashboard</a>
+
+# Hospital Details Dash board
+•  Surgery Appointment Time/Date – Tracks upcoming surgeries with patient names and timings for scheduling.
+•  Patient By Age Category (Bar Chart) – Shows age-wise distribution to analyze which age group needs more care.
+•  Room Type With Status (Stacked Bar Chart) – Displays bed availability by room type for resource planning.
+•  Patient Test Table – Summarizes test results and medical notes to track diagnosis history.
+•  Patient Selector Buttons – Quick access to specific patients’ test or treatment info.
+•  Doctor Recommendation Table – Shows doctor suggestions based on patient complaints for better follow-up and treatment tracking
+<a href ="https://github.com/998rajat/hospital_data/blob/main/Hospital_Details.png">view dashboard</a>
+
+# Finance Table
+Monthly Medicine Sale Chart – Tracks medicine sales across months to identify peak selling periods (June is highest).
+Charges Type Bar Chart – Breaks down hospital revenue by category (surgery, room, tests) to analyze earning sources.
+ Medicine Stock vs Sale Bars – Compares current stock vs sales to monitor inventory usage and restocking needs.
+
+<a href ="https://github.com/998rajat/hospital_data/blob/main/Finance_Dashboard.png">view dashboard</a>
