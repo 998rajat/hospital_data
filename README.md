@@ -24,3 +24,31 @@ o	Shows patient’s feedback and rating for the treatment.
 o	Useful for quality assurance and service improvement
 # Dash Board
 <a href ="https://github.com/998rajat/hospital_data/blob/main/Patient_Dashboard.png">view dashboard</a>
+# Doctor Dash Board
+# Doctor  Table
+
+1.	Doctor Summary Panel (Top-Left)
+Purpose: Quick profile and availability view of the doctor.
+
+2.	 Appointment Schedule (Bottom-Left)
+o	Shows upcoming and past appointments with patients
+o	Purpose: Helps doctor track patient visit history and upcoming slots
+
+3.	 Summary KPIs (Top-Center)
+o	49 Estimated Patients, ₹49.35K Total Bill, 10% Commission Rate
+o	Purpose: Provide a snapshot of overall earnings and patient count
+
+4.	 Gauge Chart – Commission Estimator (Middle-Right)
+o	Visually estimates commission based on slider value (currently 49)
+o	Purpose: Dynamic calculation tool to predict earnings from commission
+
+5.	 Rating & Feedback (Center-Left)
+o	Displays patient review
+o	Purpose: Collects and reflects patient satisfaction for service quality
+6.	 Patient Table (Bottom-Right)
+o	Lists individual patient info
+o	Purpose: Track financial and status-wise details of each patient treated by the doctor
+7.	 Financial Stats Cards (Bottom-Center)
+o	Purpose: Track doctor’s performance and compensation breakdown
+# Dash Board
+<a href ="https://github.com/998rajat/hospital_data/blob/main/Doctor_Dashboard.png">view dashboard</a>
