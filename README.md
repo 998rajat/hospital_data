@@ -22,3 +22,5 @@ o	Provides a complete medical and demographic profile for the patient.
 6.	 Feedback Box
 o	Shows patient’s feedback and rating for the treatment.
 o	Useful for quality assurance and service improvement
+# Dash Board
+<a href ="https://github.com/998rajat/hospital_data/blob/main/Patient_Dashboard.png">view dashboard</a>
